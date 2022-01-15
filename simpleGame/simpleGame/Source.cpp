@@ -3,5 +3,7 @@
 int main() {
 
 
-	std::cout << "print the sample check";
+	std::cout << "print the sample check"<<std::endl;
+
+	std::cout << "comit check";
 }
